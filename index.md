@@ -1,7 +1,7 @@
-2021 Spring Synthetic Biology Class Readings
+Synthetic Biology Class Readings
 ================
 
-## Readings
+## 2021 Spring Readings
 
   - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2015)
     ICP <ISBN:1783268794>
