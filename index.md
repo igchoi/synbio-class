@@ -1,22 +1,23 @@
 Synthetic Biology Class Readings
 ================
-
-## 2021 Spring Readings
-
-  - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2015)
-    ICP <ISBN:1783268794>
+## 2022 Spring Readings
+  - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2015) ICP <ISBN:1783268794>
   - [KU library
     Ebook](https://library.korea.ac.kr/datause/ebook/ebook-search-a/?fi1=&q1=synthetic%20biology%20a%20primer)
     or
     [Amazon](https://www.amazon.com/Synthetic-Biology-Revised-Geoff-Baldwin/dp/1783268794)
+    
 
-#### Week1
+## 2021 Spring Readings
+
+
+### Week1
 
   - (***Homework***) Foundations for engineering biology *Nature* (2005)
     Nov 24;438(7067):449-53. doi: 10.1038/nature04342.
     [PMID:16306983](https://pubmed.ncbi.nlm.nih.gov/16306983/)
 
-#### Week2
+### Week2
 
   - A brief history of synthetic biology *Nat Rev Microbiol* (2014)
     May;12(5):381-90. doi: 10.1038/nrmicro3239.
@@ -27,9 +28,9 @@ Synthetic Biology Class Readings
     10.1038/s41467-020-19092-2.
     [PMID:33057059](https://pubmed.ncbi.nlm.nih.gov/33057059/)
 
-#### Week3
+### Week3
 
-##### *DNA Reading* - sequencing
+#### *DNA Reading* - sequencing
 
 1.  DNA sequencing
 
@@ -58,9 +59,9 @@ Synthetic Biology Class Readings
     10.1038/nrg.2016.49.
     [PMID:27184599](https://pubmed.ncbi.nlm.nih.gov/27184599/)
 
-#### Week4
+### Week4
 
-##### *DNA Writing* - synthesis
+#### *DNA Writing* - synthesis
 
   - (***Review***) Synthetic DNA Synthesis and Assembly: Putting the
     Synthetic in Synthetic Biology *Cold Spring Harb Perspect Biol*
@@ -91,9 +92,9 @@ Synthetic Biology Class Readings
     Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0.
     [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
 
-#### Week5
+### Week5
 
-##### *DNA Writing* - assembly
+#### *DNA Writing* - assembly
 
 4.  Assembly - gene/genome synthesis
 
@@ -117,7 +118,7 @@ Synthetic Biology Class Readings
   - Goldgen gate assembly [NEB - a commercial
     kit](https://international.neb.com/applications/cloning-and-synthetic-biology/dna-assembly-and-cloning/golden-gate-assembly)
 
-#### Week6
+### Week6
 
   - (***Homework***) A synthetic oscillatory network of transcriptional
     regulators *Nature* (2000) Jan 20;403(6767):335-8. doi:
@@ -129,9 +130,9 @@ Synthetic Biology Class Readings
     doi: 10.1126/science.1190719.
     [PMID:20488990](https://pubmed.ncbi.nlm.nih.gov/20488990/)
 
-#### Week7
+### Week7
 
-##### Minimal cell and genome
+#### Minimal cell and genome
 
   - **The seven pillars of life** *Science* (2002) Mar
     22;295(5563):2215-6. doi: 10.1126/science.1068489.
@@ -140,7 +141,7 @@ Synthetic Biology Class Readings
     (2017 Dec) 1;9(12):a023861. doi: 10.1101/cshperspect.a023861.
     [PMID: 28348033](https://pubmed.ncbi.nlm.nih.gov/28348033/)
 
-##### JCVI Synthetic Genomes
+#### JCVI Synthetic Genomes
 
   - **Genome transplantation** - “Genome transplantation in bacteria:
     changing one species to another” *Science* (2007) Aug
@@ -164,7 +165,7 @@ Synthetic Biology Class Readings
     “인공생명의 탄생” [(Korean translation -
     library)](https://library.korea.ac.kr/main-search-result/?q=%EC%9D%B8%EA%B3%B5%EC%83%9D%EB%AA%85%EC%9D%98+%ED%83%84%EC%83%9D+%3A+%ED%95%A9%EC%84%B1%EC%83%9D%EB%AC%BC%ED%95%99%EC%9D%80+%EC%96%B4%EB%96%BB%EA%B2%8C+%EC%9D%B8%EA%B3%B5%EC%83%9D%EB%AA%85%EC%9D%84+%EB%A7%8C%EB%93%A4%EC%97%88%EB%8A%94%EA%B0%80)
 
-##### Synthetic yeast
+#### Synthetic yeast
 
   - Sc2.0 [Sc2.0 project](http://syntheticyeast.org/sc2-0/)
   - **SCRaMbLE** - “The Saccharomyces cerevisiae SCRaMbLE system and
