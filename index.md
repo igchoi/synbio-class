@@ -7,14 +7,24 @@ Synthetic Biology Class Readings
     or
     [Amazon](https://www.amazon.com/Synthetic-Biology-Revised-Geoff-Baldwin/dp/1783268794)
     
+### Part 1 (Chap. 1 & 2)
+- (***Homework***) Foundations for engineering biology *Nature* (2005) Nov 24;438(7067):449-53.
+   doi: 10.1038/nature04342 [PMID:16306983](https://pubmed.ncbi.nlm.nih.gov/16306983/)
 
+### Part 2 (Chap. 2 & 3)
+- The second decade of synthetic biology: 2010-2020 *Nat Commun* (2020) Oct 14;11(1):5174. doi:
+    10.1038/s41467-020-19092-2
+    [PMID:33057059](https://pubmed.ncbi.nlm.nih.gov/33057059/)
+    
+<p align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19092-2/MediaObjects/41467_2020_19092_Fig2_HTML.png?as=webp" width=665 height=358 align=center></p>
+
+---
 ## 2021 Spring Readings
-
 
 ### Week1
 
   - (***Homework***) Foundations for engineering biology *Nature* (2005)
-    Nov 24;438(7067):449-53. doi: 10.1038/nature04342.
+    Nov 24;438(7067):449-53. doi: 10.1038/nature04342
     [PMID:16306983](https://pubmed.ncbi.nlm.nih.gov/16306983/)
 
 ### Week2
