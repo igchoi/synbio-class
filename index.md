@@ -19,6 +19,9 @@ Synthetic Biology Class Readings
 <p align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19092-2/MediaObjects/41467_2020_19092_Fig2_HTML.png?as=webp" width=665 height=358 align=center><br>
 Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) with cartoons illustrating some of the key technologies and ways of working that now help accelerate each phase of the cycle.</p>
 
+### iGEM
+- iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
+
 ---
 ## 2021 Spring Readings
 
