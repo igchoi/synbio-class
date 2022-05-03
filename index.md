@@ -66,8 +66,12 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0.
     [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
 
-### iGEM
-- iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
+
+## iGEM
+
+1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
+2. iGEM [project list](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
+3. iGEM [projects](https://projects.igem.org/)
 
 ---
 ## [2021 Spring Readings](./2021-spring-class.md)
