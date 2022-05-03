@@ -24,9 +24,6 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
 #### *DNA Reading* - sequencing
 
 1.  DNA sequencing
-
-<!-- end list -->
-
   - Maxam-Gilbert sequencing
     [wiki](https://en.wikipedia.org/wiki/Maxam%E2%80%93Gilbert_sequencing)
     -“A new method for sequencing DNA” *PNAS* (1977) 74 (2): 560–4. doi:
@@ -38,21 +35,14 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     polymerase” *J Mol Biol* (1975) 94 (3): 441–8. doi:
     10.1016/0022-2836(75)90213-2.
     [PMID: 1100841](https://pubmed.ncbi.nlm.nih.gov/1100841)
-
-<!-- end list -->
-
 2.  Next generation sequencing NGS
-
-<!-- end list -->
-
   - Coming of age: ten years of next-generation sequencing technologies
     *Nat Rev Genet* (2016) May 17;17(6):333-51. doi:
     10.1038/nrg.2016.49.
     [PMID:27184599](https://pubmed.ncbi.nlm.nih.gov/27184599/)
-
 3. Impact of NGS
   - Science magazine 4/1/2022 [Filling the gap in human genome](https://www.science.org/toc/science/376/6588)
-<p align=center><img src="https://www.science.org/cms/asset/b1294e1a-7009-41c9-9542-f68beaa59ea3/science.2022.376.issue-6588.largecover.jpg"
+<p align=center><img src="https://www.science.org/cms/asset/3afa4cb5-6cf3-4a7e-8874-d06ca4453755/science.2022.376.issue-6588.cover.jpg"
                      width = 220 height = 300></p>
 
 ### Part 4 (Foundational technology)
@@ -67,15 +57,11 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
 1.  Chemical synthesis - oligomer synthesis based on phosphoramidite
     chemistry
     [wiki](https://en.wikipedia.org/wiki/Oligonucleotide_synthesis)
-
 2.  Lager-scale synthesis - oligomer/gene synthesis
-
   - Large-scale de novo DNA synthesis: technologies and applications
     *Nat Methods* (2014) May;11(5):499-507. doi: 10.1038/nmeth.2918.
     [PMID:24781323](https://pubmed.ncbi.nlm.nih.gov/24781323/)
-
 3.  Biochemical synthesis
-
   - The race for enzymatic DNA synthesis heats up *Nature* (2019)
     Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0.
     [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
