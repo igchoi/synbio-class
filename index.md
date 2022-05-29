@@ -1,5 +1,16 @@
 2022 Synthetic Biology Class Readings
 ================
+## iGEM
+
+1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
+2. iGEM [project list](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
+3. iGEM [projects](https://projects.igem.org/)
+
+## iGEM webinar
+* check [these 2021 iGEM webinars](https://2021.igem.org/Engineering/Webinars) to learn more about how iGEM is working
+* [2020 iGEM webinars](https://2021.igem.org/Engineering/Webinars#2020)
+
+
 ## 2022 Spring Readings
   - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2015) ICP <ISBN:1783268794>
   - [KU library
@@ -66,15 +77,5 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0.
     [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
 
-
-## iGEM
-
-1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
-2. iGEM [project list](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
-3. iGEM [projects](https://projects.igem.org/)
-
-### iGEM webinar
-* check [these 2021 iGEM webinars](https://2021.igem.org/Engineering/Webinars) to learn more about how iGEM is working
-* [2020 iGEM webinars](https://2021.igem.org/Engineering/Webinars#2020)
 ---
 ## [2021 Spring Readings](./2021-spring-class.md)
