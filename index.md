@@ -73,5 +73,8 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
 2. iGEM [project list](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
 3. iGEM [projects](https://projects.igem.org/)
 
+### iGEM webinar
+* check [these 2021 iGEM webinars](https://2021.igem.org/Engineering/Webinars) to learn more about how iGEM is working
+* [2020 iGEM webinars](https://2021.igem.org/Engineering/Webinars#2020)
 ---
 ## [2021 Spring Readings](./2021-spring-class.md)
