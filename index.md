@@ -3,7 +3,7 @@
 ## iGEM
 
 1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
-2. iGEM [project list upto 2022](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
+2. iGEM [project list upto 2022](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv) from [Pheonix project](https://community.igem.org/projects/phoenix-project)
 3. iGEM [project inspiration](https://blog.igem.org/project-inspiration)
 4. Frontiers in Systems Biology [iGEM 2023 collection](https://www.frontiersin.org/research-topics/65859/igem-2023-collection/articles)
 
