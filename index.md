@@ -3,16 +3,17 @@
 ## iGEM
 
 1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
-2. iGEM [project list](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
-3. iGEM [projects](https://projects.igem.org/)
+2. iGEM [project list upto 2022](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv)
+3. iGEM [project inspiration](https://blog.igem.org/project-inspiration)
+4. Frontiers in Systems Biology [iGEM 2023 collection](https://www.frontiersin.org/research-topics/65859/igem-2023-collection/articles)
 
 ## iGEM webinar
 <!-- * check [these 2021 iGEM webinars](https://2021.igem.org/Engineering/Webinars) to learn more about how iGEM is working
-* [2020 iGEM webinars](https://2021.igem.org/Engineering/Webinars#2020) -->
+* [iGEM webinars ](https://2021.igem.org/Engineering/Webinars#2020) -->
+* [iGEM webinars - Technology & Engineering](https://technology.igem.org/webinars/webinars)
 
-
-## 2024 Spring Readings
-  - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2015) ICP <ISBN:1783268794>
+## 2025 Spring Readings
+  - Textbook - **Synthetic Biology - A Primer (Revised Edition)** (2016) ICP <ISBN:1783268794>
   - [KU library
     Ebook](https://library.korea.ac.kr/datause/ebook/ebook-search-a/?fi1=&q1=synthetic%20biology%20a%20primer)
     or
