@@ -1,7 +1,7 @@
 2025 Synthetic Biology Class Readings
 ================
-## 2025 SynBio Quiz
-![image]()
+## 2025 Spring SynBio Quiz
+![image](https://raw.githubusercontent.com/igchoi/synbio-class/refs/heads/gh-pages/image/2025-LIBT377-synbio-QR.png)
 
 
 ## iGEM
