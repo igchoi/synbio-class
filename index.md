@@ -5,11 +5,11 @@
 
 
 ## iGEM
-
-1. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
-2. iGEM [project list upto 2022](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv) from [Pheonix project](https://community.igem.org/projects/phoenix-project)
-3. iGEM [project inspiration](https://blog.igem.org/project-inspiration)
-4. [Journals](https://community.igem.org/journals)
+1. Why iGEM is the Place to See the Future of Biotech [Youtube by Ginkgo Bioworks](https://www.youtube.com/watch?v=kPe0qDLj0F8) 
+2. iGEM comes of age: trends in its research output. Nat Biotechnol 39, 1599–1601 (2021). [https://doi.org/10.1038/s41587-021-01152-7](https://doi.org/10.1038/s41587-021-01152-7)
+3. iGEM [project list upto 2022](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv) from [Pheonix project](https://community.igem.org/projects/phoenix-project)
+4. iGEM [project inspiration](https://blog.igem.org/project-inspiration)
+5. [Journals](https://community.igem.org/journals)
    - Frontiers in Systems Biology [iGEM 2023 collection](https://www.frontiersin.org/research-topics/65859/igem-2023-collection/articles)
 
 ## iGEM webinar
@@ -25,7 +25,8 @@
     [Amazon](https://www.amazon.com/Synthetic-Biology-Revised-Geoff-Baldwin/dp/1783268794)
     
 ### Part 1 History & Background (Chap. 1 & 2)
--  Foundations for engineering biology *Nature* (2005) Nov 24;438(7067):449-53.
+- [Definition of Synthetic Biology](https://www.youtube.com/watch?v=zggU1KCgc7A) by Ginkgo Bioworks
+- Foundations for engineering biology *Nature* (2005) Nov 24;438(7067):449-53.
    doi: 10.1038/nature04342 [PMID:16306983](https://pubmed.ncbi.nlm.nih.gov/16306983/)
 
 ### Part 2 (Chap. 2 & 3)
