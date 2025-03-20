@@ -30,12 +30,20 @@
    doi: 10.1038/nature04342 [PMID:16306983](https://pubmed.ncbi.nlm.nih.gov/16306983/)
 
 ### Part 2 (Chap. 2 & 3)
+- Engineering Biology
 - The second decade of synthetic biology: 2010-2020 *Nat Commun* (2020) Oct 14;11(1):5174. doi:
     10.1038/s41467-020-19092-2
     [PMID:33057059](https://pubmed.ncbi.nlm.nih.gov/33057059/)
     
 <p align=center><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-19092-2/MediaObjects/41467_2020_19092_Fig2_HTML.png?as=webp" width=665 height=358 align=center><br>
 Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) with cartoons illustrating some of the key technologies and ways of working that now help accelerate each phase of the cycle.</p>
+
+- Boom and Bust of BioCAD
+  - [CiderLab tools](https://www.cidarlab.org/tools)
+  - [Teselagen](https://teselagen.com/)
+  - [Benchling](https://www.benchling.com/)
+  - [OpenVectorEditor](https://github.com/TeselaGen/ove-electron/releases)
+  - [VectorBuilder](https://www.vectorbuilder.kr/)
 
 ### Part 3 (Chap. 3 Foundational technology)
 
