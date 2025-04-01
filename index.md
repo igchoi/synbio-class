@@ -60,6 +60,7 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     method for determining sequences in DNA by primed synthesis with DNA
     polymerase” *J Mol Biol* (1975) 94 (3): 441–8. doi:
     10.1016/0022-2836(75)90213-2.
+    - [Fig. 1 Schematic illustration of Sanger sequencing](https://www.nature.com/articles/s41587-023-01986-3/figures/1)
     [PMID: 1100841](https://pubmed.ncbi.nlm.nih.gov/1100841)
 2.  Next generation sequencing NGS
   - Coming of age: ten years of next-generation sequencing technologies
