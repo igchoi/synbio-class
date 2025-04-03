@@ -63,6 +63,7 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     - [Fig. 1 Schematic illustration of Sanger sequencing](https://www.nature.com/articles/s41587-023-01986-3/figures/1)
     [PMID: 1100841](https://pubmed.ncbi.nlm.nih.gov/1100841)
 2.  Next generation sequencing NGS
+  - [The sequence of sequencers: The history of sequencing DNA](https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787) Genomics. 2016 Jan;107(1):1–8. doi: 10.1016/j.ygeno.2015.11.003
   - Coming of age: ten years of next-generation sequencing technologies
     *Nat Rev Genet* (2016) May 17;17(6):333-51. doi:
     10.1038/nrg.2016.49.
