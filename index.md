@@ -77,22 +77,23 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
 
 #### *DNA Writing* - synthesis
 
-  - (***Review***) Synthetic DNA Synthesis and Assembly: Putting the
-    Synthetic in Synthetic Biology *Cold Spring Harb Perspect Biol*
-    (2017) Jan 3;9(1):a023812.
-    [PMID:28049645](https://pubmed.ncbi.nlm.nih.gov/28049645/)
+##### Oligos to Fragments (Genes)
+- (***Review***) Synthetic DNA Synthesis and Assembly: Putting the Synthetic in Synthetic Biology *Cold Spring Harb Perspect Biol* (2017) Jan 3;9(1):a023812 [PMID:28049645](https://pubmed.ncbi.nlm.nih.gov/28049645/)
 
-1.  Chemical synthesis - oligomer synthesis based on phosphoramidite
+1. Chemical synthesis - oligomer synthesis based on phosphoramidite
     chemistry
-    [wiki](https://en.wikipedia.org/wiki/Oligonucleotide_synthesis)
-2.  Lager-scale synthesis - oligomer/gene synthesis
-  - Large-scale de novo DNA synthesis: technologies and applications
-    *Nat Methods* (2014) May;11(5):499-507. doi: 10.1038/nmeth.2918.
-    [PMID:24781323](https://pubmed.ncbi.nlm.nih.gov/24781323/)
-3.  Biochemical synthesis
-  - The race for enzymatic DNA synthesis heats up *Nature* (2019)
-    Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0.
-    [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
+    - [wikipedia](https://en.wikipedia.org/wiki/Oligonucleotide_synthesis)
+2. Lager-scale synthesis - oligomer/gene synthesis
+    - Large-scale de novo DNA synthesis: technologies and applications *Nat Methods* (2014) May;11(5):499-507. doi: 10.1038/nmeth.2918. [PMID:24781323](https://pubmed.ncbi.nlm.nih.gov/24781323/)
+3. Biochemical synthesis
+    - The race for enzymatic DNA synthesis heats up *Nature* (2019) Feb;566(7745):565. doi: 10.1038/d41586-019-00682-0. [PMID:30804572](https://pubmed.ncbi.nlm.nih.gov/30804572/)
+4. Polymerase Cycling Assembly (PCA)
+5. Ligation Cycling Assembly (LCR)
+6. Gibson Assembly (GA)
+7. Golden Gate Assembly (GGA)
+
+##### Fragments to Chunks (Genomes)
+
 
 ---
 ## [2021 Spring Readings](./2021-spring-class.md)
