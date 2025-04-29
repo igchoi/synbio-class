@@ -45,6 +45,10 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
   - [OpenVectorEditor](https://github.com/TeselaGen/ove-electron/releases)
   - [VectorBuilder](https://www.vectorbuilder.kr/)
 
+#### Decoding genetic code
+- Marshall Nirenberg ("I would like to tell you how the genetic code was deciphered from a personal point of view...") - [Historical review: Deciphering the genetic code – a personal account](https://www.sciencedirect.com/science/article/pii/S0968000403003025)
+
+  
 ### Part 3 (Chap. 3 Foundational technology)
 
 #### *DNA Reading* - sequencing
@@ -70,8 +74,7 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
     [PMID:27184599](https://pubmed.ncbi.nlm.nih.gov/27184599/)
 3. Impact of NGS
   - Science magazine 4/1/2022 [Filling the gap in human genome](https://www.science.org/toc/science/376/6588)
-<!-- <p align=center><img src="https://www.science.org/cms/asset/3afa4cb5-6cf3-4a7e-8874-d06ca4453755/science.2022.376.issue-6588.cover.jpg"
-                     width = 220 height = 300></p> -->
+<!-- <p align=center><img src="https://www.science.org/cms/asset/3afa4cb5-6cf3-4a7e-8874-d06ca4453755/science.2022.376.issue-6588.cover.jpg" width = 220 height = 300></p> -->
 
 ### Part 4 (Foundational technology)
 
@@ -93,7 +96,11 @@ Fig. 2 Diagram shows the engineering cycle used in synthetic biology (centre) wi
 7. Golden Gate Assembly (GGA)
 
 ##### Fragments to Chunks (Genomes)
-
+###### Cloning
+1. Ligation indendent cloning (LIC)
+2. Sequence-ligation independent cloning (SLIC)
+3. 3A-Assembly (iGEM starndard assembly) cloning
+4. Transformation Associated Recombination (TAR)
 
 ---
 ## [2021 Spring Readings](./2021-spring-class.md)
